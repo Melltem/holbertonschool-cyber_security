@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ss -t -a -n -p
+echo -e "TCP network socket connections:\n$(sudo ss -t -a -n -p)"
