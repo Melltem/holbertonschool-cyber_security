@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl start auditd
+sudo lynis audit system
