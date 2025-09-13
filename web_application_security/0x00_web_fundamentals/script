@@ -1,2 +1,0 @@
-#!/bin/bash
-curl -v -X POST "http://web0x00.hbtn/login" -H "Host: 10.42.66.115" -d "10.8.0.69"
