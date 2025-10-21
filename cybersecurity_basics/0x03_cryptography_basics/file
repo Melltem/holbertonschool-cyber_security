@@ -1,5 +1,0 @@
-#!/bin/bash
-# Run Hashcat to crack the password using MD5 format and show results
-hashcat -m 0 --show $1 > temp_output.txt
-# Extract and save only the hash value from the input file to 7-password.txt
-cat $1 > 7-password.txt
