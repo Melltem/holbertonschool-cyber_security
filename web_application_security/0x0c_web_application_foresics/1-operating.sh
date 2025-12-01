@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Ubuntu 8.04"
+echo "Ubuntu 8.04 LTS"
