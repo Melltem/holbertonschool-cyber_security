@@ -1,2 +1,2 @@
 #!/bin/bash
-cat <<< "Ubuntu 8.04"
+printf %s "Ubuntu 8.04" > operating
