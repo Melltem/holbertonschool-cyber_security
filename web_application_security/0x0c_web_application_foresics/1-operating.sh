@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %s "Ubuntu 8.04" > operating
+printf "Ubuntu 8.04"
