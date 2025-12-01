@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Ubuntu 8.04"
+cat <<< "Ubuntu 8.04"
